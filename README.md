@@ -245,3 +245,7 @@ H@DESKTOP-F8LTDIM MINGW64 /e/theGym/Git/MyGym-git-exercise-solutions (dev)
 $ git reset --hard
 HEAD is now at f387658 Add home and about html pages
 ```
+
+## Bundle 2
+
+## exercise 1
